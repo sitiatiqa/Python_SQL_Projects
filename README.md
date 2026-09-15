@@ -1,7 +1,7 @@
 # Python & SQL Data Analysis Projects
 
 ## Project Overview
-This project demonstrates data analysis and automation using Python.
+This project demonstrates data analysis and automation using Python and SQL.
 
 ## Tools & Libraries
 - Python
