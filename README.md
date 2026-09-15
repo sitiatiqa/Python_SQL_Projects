@@ -1,4 +1,4 @@
-# python-project
+# Python & SQL Data Analysis Projects
 
 ## Project Overview
 This project demonstrates data analysis and automation using Python.
